@@ -1,0 +1,3 @@
+#!/bin/bash
+
+apt-cache pkgnames | grep -i "$1" | sort
