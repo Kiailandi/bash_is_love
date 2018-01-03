@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo $(expr '(' $(date -d $3/$2/$1 +%s) - $(date +%s) + 86399 ')' / 86400) " days until deadline"
+echo $(expr '(' $(date -d $2/$1/$3 +%s) - $(date +%s) + 86399 ')' / 86400) " days until deadline"
 
