@@ -15,5 +15,6 @@ lampstop | *stop apache and mysql services*
 pomodoro | *start a pomodoro session with break afterwards*
 showpkg | *search packages by name*
 watchbattery | *monitor battery level and charge/discharge rate*
+spaceweight | *tells you the weight of each file in a folder*
 
 **Feel free to contribute!** 
