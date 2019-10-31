@@ -1,3 +1,4 @@
 *.AppImage
 *.secret
 tldr
+.DS_Store
