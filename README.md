@@ -16,5 +16,11 @@ pomodoro | *start a pomodoro session with break afterwards*
 showpkg | *search packages by name*
 watchbattery | *monitor battery level and charge/discharge rate*
 spaceweight | *tells you the weight of each file in a folder*
+changetheme | *helps you change console theme*
+chmodresetfile | *resets files permissions*
+chmodresetfolder | *resets folders permissions*
+rmrfnm | *removes node_modules recursively*
+rmSnaps | *removes old Snaps*
+thumbnail | *create 400px thumbnails from jpgs in a folder*
 
 **Feel free to contribute!** 
